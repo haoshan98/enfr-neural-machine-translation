@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>EN-FR</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='styles/style.css') }}">
+</head>
+
+
+<!--<body style="background: #000;">-->
+<!--color: #02e8b6;-->
+<!--#00e1fa-->
+<!--#fc00f0-->
+<body>
+ <div class="login">
+<!--     <a class="link" href="/" style="text-decoration-color: #0000ff;">-->
+        <a class="link" href="/" style="text-decoration: none; ">
+         <button style="background-color: Transparent;
+         font-size: 50px;
+         font-style: italic;
+         font-weight: bold;
+         color: #02e8b6;
+         padding: 10px;
+         ">
+             English-French<br>
+             <span style="font-style: italic; font-weight: normal;
+                 margin-top: 8px;
+                 color: #00e1fa;
+                    ">
+                 Translator
+             </span>
+     </button>
+        </a>
+
+    <br>
+     <br>
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}" method="post">
+        <input type="text" name="word" placeholder="Word Or Sentence *" required="required" style="2px solid rgba(245, 245, 44,0.9);"/>
+        <input type="text" name="target" placeholder="Target Translation " style="2px solid rgba(255, 181, 77,0.9);" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Go</button>
+    </form>
+
+   <br>
+
+ </div>
+    <div class="output">
+        <div class="row">
+        <div class="col">
+    <h3 style="color: rgba(245, 245, 44,0.9);">{{ source_text }}</h3>
+        </div>
+         <div class="col">
+     <h3 style="color: rgba(245, 245, 44,0.9);">{{ prediction_text }}</h3>
+         </div>
+        </div>
+
+     <h4 style="color: rgba(255, 181, 77,0.9);">{{ target_text }}</h4>
+     <h4 style="color: rgba(255, 181, 77,0.9);">{{ bleu_text }}</h4>
+     <br>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,92 @@
+source: the preparatory conference is also underway .
+hypo: la conférence préparatoire est également en cours .
+target: la conférence préparatoire est également en cours .
+
+source: this record is subject to correction .
+hypo: le présent compte rendu est sujet à rectifications .
+target: le présent compte rendu est sujet à rectifications .
+
+source: daily list of documents issued at headquarters
+hypo: liste quotidienne des documents publiés au siège
+target: liste quotidienne des documents publiés au siège
+
+source: organizational session for 2005
+hypo: session d' organisation de 2005
+target: session d' organisation de 2005
+
+source: ( g ) consideration of the draft biennial calendar of
+hypo: g ) examen du projet de calendrier biennal des conférences
+target: g ) examen du projet de calendrier biennal des conférences
+
+source: ( b ) institutional framework
+hypo: b ) cadre institutionnel
+target: b ) cadre institutionnel
+
+source: for the purposes of this law :
+hypo: aux fins de la présente loi :
+target: aux fins de la présente loi :
+
+source: communications to the editor
+hypo: communications à la rédaction
+target: communications à la rédaction
+
+source: ig > about ig > advisory board institute of genetics
+hypo: ig > à propos de l' ig > conseil consultatif
+target: ig > à propos de l' ig > conseil consultatif
+
+source: the committee asked for information on the activities of control
+hypo: le comité a demandé des informations sur les activités de
+target: le comité a demandé des informations sur les activités de
+
+source: advancement of women
+hypo: promotion de la femme
+target: promotion de la femme
+
+source: provisional agenda
+hypo: ordre du jour provisoire
+target: ordre du jour provisoire
+
+source: seventh session ( 1988 ) *
+hypo: septième session ( 1988 ) *
+target: septième session ( 1988 ) *
+
+source: judgement was delivered on 10 july 2008 .
+hypo: le jugement a été rendu le 10 juillet 2008 .
+target: le jugement a été rendu le 10 juillet 2008 .
+
+source: election of officers .
+hypo: élection du bureau .
+target: élection du bureau .
+
+source: ( the president cut off the speaker )
+hypo: ( le président retire la parole à l' orateur )
+target: ( le président retire la parole à l' orateur )
+
+source: the president of the security council made a statement .
+hypo: le président du conseil de sécurité fait une déclaration .
+target: le président du conseil de sécurité fait une déclaration .
+
+source: b date of receipt of notification of succession .
+hypo: b date de réception de la notification de succession .
+target: b date de réception de la notification de succession .
+
+source: children with disabilities ( art .
+hypo: enfants handicapés ( art .
+target: enfants handicapés ( art .
+
+source: minister for investment
+hypo: ministre de l' investissement
+target: ministre de l' investissement
+
+source: ( monday , 26 september , p.m. )
+hypo: ( lundi 26 septembre , après-midi )
+target: ( lundi 26 septembre , après-midi )
+
+source: united nations office at nairobi
+hypo: office des nations unies à nairobi
+target: office des nations unies à nairobi
+
+source: asian states ( 14 member states )
+hypo: états d' asie ( 14 états membres )
+target: états d' asie ( 14 états membres )
+
